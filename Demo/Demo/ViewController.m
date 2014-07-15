@@ -80,7 +80,7 @@
 - (void)viewDidLoad {
   [super viewDidLoad];
     
-    self.title = @"Pin-interest Demo";
+    self.title = @"Pinterest Demo";
     self.navigationController.navigationBarHidden = NO;
     int min = 100 ; //it's as per your requirement
     int max = 250;
